@@ -55,7 +55,7 @@
     "@nestjs/testing": "^11.1.13",
     "@swc/cli": "^0.8.1",
     "@swc/core": "^1.15.24",
-    "fastify": "^5.8.4",
+    "fastify": "^5.8.5",
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
     "@types/node": "^25.5.2",
