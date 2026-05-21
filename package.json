@@ -58,7 +58,7 @@
     "fastify": "^5.8.5",
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
-    "@types/node": "^25.7.0",
+    "@types/node": "^25.9.1",
     "@types/node-fetch": "^3.0.2",
     "@types/sharp": "^0.32.0",
     "@types/supertest": "^7.2.0",
@@ -68,18 +68,18 @@
     "globals": "^17.6.0",
     "husky": "^9.1.7",
     "jest": "^30.4.2",
-    "lint-staged": "^17.0.4",
+    "lint-staged": "^17.0.5",
     "markdownlint": "^0.40.0",
     "markdownlint-cli": "^0.48.0",
     "prettier": "^3.8.3",
     "source-map-support": "^0.5.21",
     "supertest": "^7.2.2",
-    "ts-jest": "^29.4.9",
+    "ts-jest": "^29.4.10",
     "ts-loader": "^9.5.7",
     "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.59.3"
+    "typescript-eslint": "^8.59.4"
   },
   "jest": {
     "moduleFileExtensions": [
