@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.13] - 2026-06-05
+
 ## [1.6.12] - 2026-01-14
 
 ### ⚙️ Miscellaneous Tasks
